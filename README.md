@@ -2,7 +2,7 @@
 Hey, I am <b>Noam Shabat</b> 👋🏽
 
 I am a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>2 years</b> of experience<br>
-I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, studying Bachelor's <b>Computer Science</b>.
+I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, Doing my Bachelor's in <b>Computer Science</b>.
 
 ## 🔨 Languages and Tools
 <div align="left">
