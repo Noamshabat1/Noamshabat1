@@ -19,6 +19,7 @@ I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://
 ## 📬 Contact me
 <div align="left">
   <a href="https://www.linkedin.com/in/noam-shabat/"><img alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+    <a href="noamshabat.org/"><img alt="website" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
 </div>
 
 
