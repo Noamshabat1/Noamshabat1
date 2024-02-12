@@ -20,7 +20,7 @@ I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://
 <div align="left">
   <a href="https://www.linkedin.com/in/noam-shabat/"><img alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
     <a href="https://twitter.com/noam_shabat1"><img alt="Twitter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
-    <a href="https://noamshabat.org"><img alt="Portfolio" width="40" height="40" src="🌐"/></a>
+    <a href="https://noamshabat.org"><img alt="Portfolio" width="40" height="40" src="portfolio/NS.png"/></a>
 </div>
 
 
