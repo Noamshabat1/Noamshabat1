@@ -10,25 +10,7 @@ I am also a <b>student</b> at <b>[The Hebrew University of Jerusalem](https://en
 As a Computer Science Student, I'm passionate about utilizing my knowledge of the latest technologies to make a positive difference in the world.</br>
 
 ## 🔨 Languages and Tools
-<div align="left">
-    <a href="https://www.python.org/"><img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-    <a href="https://en.wikipedia.org/wiki/C_(programming_language)#:~:text=C%20(%2F%CB%88si%CB%90%2F,capabilities%20of%20the%20targeted%20CPUs."><img alt="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/></a>
-    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></a>
-    <a href="https://www.java.com/en/"><img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-    <a href="https://www.mysql.com/"><img alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
-    <a href="https://git-scm.com/"><img alt="GIT" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
-</div>
-
-## 📬 Contact me
-<div align="left">
-  <a href="https://www.linkedin.com/in/noam-shabat/"><img alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
-    <a href="https://twitter.com/noam_shabat1"><img alt="Twitter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
-    <a href="https://noamshabat.org"><img alt="Portfolio" width="40" height="40" src="portfolio/NS.png"/></a>
-</div>
-////////////////////////////
-<table width="60%">
+<table width="65%">
 <tr>
     <td align='center' width="150">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="110">
@@ -75,13 +57,20 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="110">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="110">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="130">
     </td>
   <td align='center' width="200">
          <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="110">
     </td>
 </tr>
 </table>
+
+## 📬 Contact me
+<div align="left">
+  <a href="https://www.linkedin.com/in/noam-shabat/"><img alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+    <a href="https://twitter.com/noam_shabat1"><img alt="Twitter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
+    <a href="https://noamshabat.org"><img alt="Portfolio" width="40" height="40" src="portfolio/NS.png"/></a>
+</div>
 
 ## 🌟 Other
 <details>
