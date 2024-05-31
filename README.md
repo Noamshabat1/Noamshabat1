@@ -82,6 +82,9 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
   </div>
 </details>
 
+(https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Orin111&theme=gruvbox)
+
+
 ## 🐛Github Game
 
 <p align="center">
