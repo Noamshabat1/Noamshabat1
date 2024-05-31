@@ -68,16 +68,16 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
 </tr>
 
 <tr>
-    <td align='center' width="200">
+    <td align='center' width="220">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
     </td>
-    <td align='center' width="200">
+    <td align='center' width="220">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100">
     </td>
- <td align='center' width="200">
+ <td align='center' width="220">
         <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="100">
     </td>
-  <td align='center' width="200">
+  <td align='center' width="220">
          <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="100">
     </td>
 </tr>
