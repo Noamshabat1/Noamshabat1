@@ -30,14 +30,14 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
 ////////////////////////////
 <table width="60%">
 <tr>
-    <td align='center' width="150">
+    <td align='center' width="200">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100">
     </td>
 
-  <td align='center' width="150">
+  <td align='center' width="200">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="100">
     </td>
- <td align='center' width="150">
+ <td align='center' width="1200">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100">
     </td>
  <td align='center' width="200">
@@ -51,7 +51,7 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
 
 <tr>
     <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="100">
     </td>
     <td align='center' width="200">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="100">
@@ -60,10 +60,10 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="100">
     </td>
      <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="100">
     </td>
     <td align='center' width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="100">
     </td>
 </tr>
 
@@ -72,13 +72,13 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
     </td>
     <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="100">
     </td>
   <td align='center' width="200">
-         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="90">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="100">
     </td>
 </tr>
 </table>
