@@ -27,8 +27,8 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
     <a href="https://twitter.com/noam_shabat1"><img alt="Twitter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
     <a href="https://noamshabat.org"><img alt="Portfolio" width="40" height="40" src="portfolio/NS.png"/></a>
 </div>
-
-<table width="80%">
+////////////////////////////
+<table width="60%">
 <tr>
     <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="100">
