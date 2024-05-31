@@ -38,7 +38,7 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="100">
     </td>
  <td align='center' width="150">
-        <img src="hhttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
