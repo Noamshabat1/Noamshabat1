@@ -1,6 +1,9 @@
 # 👨🏻‍💻 About Me
 Hey, I am <b>Noam Shabat</b> 👋🏽
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+at;The+Hebrew+University+of+Jerusalem;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a>
+
 I'm a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>3 years</b> of experience<br>
 I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, Doing my Bachelor's in <b>Computer Science</b>.
 
