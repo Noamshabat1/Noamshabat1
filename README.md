@@ -44,7 +44,7 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+        <img src="https://www.java.com/en/"><img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
     </td>
 
 </tr>
