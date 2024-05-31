@@ -6,7 +6,8 @@ Hey there, I am <b>Noam Shabat</b> 👋🏽 <a href="#"></h1>
 </div>
 
 I'm a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, with over <b>3 years</b> of experience<br>
-I am also a <b>Sophomore</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, Doing my Bachelor's in <b>Computer Science</b>.
+I am also a <b>a student</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, Doing my Bachelor's in <b>Computer Science</b>.
+As a Computer Science student, I'm passionate about utilizing my knowledge of the latest technologies to make a positive difference in the world</b>.
 
 ## 🔨 Languages and Tools
 <div align="left">
