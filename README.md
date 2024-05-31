@@ -81,3 +81,9 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
     <img height="175rem" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noamshabat1&theme=dark&layout=compact&langs_count=6" />&nbsp;&nbsp;&nbsp;
   </div>
 </details>
+
+## 🐛Github Game
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
