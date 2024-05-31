@@ -54,7 +54,7 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="110">
     </td>
     <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="110">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="120">
     </td>
  <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" width="130">
