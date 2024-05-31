@@ -1,6 +1,9 @@
 # 👨🏻‍💻 About Me
 Hey, I am <b>Noam Shabat</b> 👋🏽
 
+<div align="center">
+    <h1> Hi there, I’m <b>Noam Shabat</b> 👋🏽 <a href="#"></h1>
+</div>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+at;The+Hebrew+University+of+Jerusalem;Motivated+self-starter;troubleshooting+skills" alt="Typing SVG" /></a>
 
