@@ -31,20 +31,20 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
 <table width="60%">
 <tr>
     <td align='center' width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="110">
     </td>
 
   <td align='center' width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="110">
     </td>
  <td align='center' width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="110">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="110">
     </td>
  <td align='center' width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="110">
     </td>
 
 </tr>
