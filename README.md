@@ -35,7 +35,7 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
     </td>
 
   <td align='center' width="150">
-        <img src="[https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="100">
     </td>
  <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="100">
