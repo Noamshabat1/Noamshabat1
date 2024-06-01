@@ -10,6 +10,7 @@ I am also a <b>student</b> at <b>[The Hebrew University of Jerusalem](https://en
 As a Computer Science Student, I'm passionate about utilizing my knowledge of the latest technologies to make a positive difference in the world.</br>
 
 ## 🔨 Languages and Tools
+</br>
 <table width="65%">
 <tr>
     <td align='center' width="150">
