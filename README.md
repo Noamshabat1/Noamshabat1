@@ -9,6 +9,7 @@ I'm a <b>Software Developer</b>, <b>Video Editor</b> & <b>Graphic Designer</b>, 
 I am also a <b>student</b> at <b>[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)</b>, Doing my Bachelor's in <b>Computer Science | Expected Graduation: 2025 🥇. </br>
 As a Computer Science Student, I'm passionate about utilizing my knowledge of the latest technologies to make a positive difference in the world.</br>
 
+
 ## 🔨 Languages and Tools
 </br>
 <table width="65%">
@@ -29,7 +30,6 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
  <td align='center' width="200">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="110">
     </td>
-
 </tr>
 
 <tr>
@@ -66,12 +66,14 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
 </tr>
 </table>
 
+
 ## 📬 Contact me
 <div align="left">
   <a href="https://www.linkedin.com/in/noam-shabat/"><img alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
     <a href="https://twitter.com/noam_shabat1"><img alt="Twitter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/></a>
     <a href="https://noamshabat.org"><img alt="Portfolio" width="40" height="40" src="portfolio/NS.png"/></a>
 </div>
+
 
 ## 🌟 Other
 <details>
