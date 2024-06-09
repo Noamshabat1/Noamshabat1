@@ -62,9 +62,14 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
   <td align='center' width="200">
          <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="110">
     </td>
+      <td align='center' width="200">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="110">
+    </td>
 </tr>
 </table>
 </br>
+
+
 
 ## 📬 Contact me
 <div align="left">
