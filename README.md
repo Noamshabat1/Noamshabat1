@@ -14,7 +14,7 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
 <table width="65%">
 <tr>
     <td align='center' width="150">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="130">
     </td>
 
   <td align='center' width="150">
