@@ -32,7 +32,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
 - JetBrains Tools
 - Adobe Premiere Pro
   
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,googlecloud,windows,pycharm,idea,clion&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,windows,googlecloud,pycharm,idea,clion&perline=5)](https://skillicons.dev)
 
 ## 📬 Contact Me
 
