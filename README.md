@@ -23,6 +23,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
 - SQL
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,nodejs,react,sql,MongoDB&perline=4)](https://skillicons.dev)
+
 ### Tools
 - Git
 - Android Studio
@@ -32,6 +33,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
 - Adobe Premiere Pro
   
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,windows,googlecloud,pycharm,idea,clion&perline=5)](https://skillicons.dev)
+
 
 ## 📬 Contact Me
 
