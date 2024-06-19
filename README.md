@@ -17,7 +17,7 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
   
 - Tools: Git, Android Studio, Linux OS, VS code, JetBrains Tools, Adobe Premiere Pro.
 
-[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,linux,git,github,vscode,windows,googlecloud,adobe,pycharm,idea,clion&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,linux,git,github,vscode,windows,googlecloud,pycharm,idea,clion&perline=6)](https://skillicons.dev)
  
 
 <table width="65%">
