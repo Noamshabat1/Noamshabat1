@@ -21,6 +21,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
 - Node.js
 - React
 - SQL
+  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,nodejs,react,sql,MongoDB&perline=4)](https://skillicons.dev)
 
 ### Tools
@@ -32,6 +33,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
 - Google Cloud
 - JetBrains Tools
 - Adobe Premiere Pro
+  
 [![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,linux,vscode,windows,googlecloud,pycharm,idea,clion&perline=5)](https://skillicons.dev)
 
 
