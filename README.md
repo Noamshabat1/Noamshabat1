@@ -23,7 +23,6 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
 - SQL
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,nodejs,react,sql,MongoDB&perline=4)](https://skillicons.dev)
-
 ### Tools
 - Git
 - Android Studio
