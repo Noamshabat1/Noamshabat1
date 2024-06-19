@@ -11,13 +11,13 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
 </br>
 
 ## 🔨 Languages and Tools
-- Programming Languages: C, C++,C#, Python, Java, Kotlin, JavaScript, Node.js, React, SQL.
+- Programming Languages: C, C++, Python, Java, JavaScript, Node.js, React, SQL.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,js,nodejs,react,sqlite&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,nodejs,react,mongodb,sqlite&perline=5)](https://skillicons.dev)
   
-- Tools: Unity, Android Studio, Linux OS, Git, VS code, JetBrains Tools.
+- Tools: Git, Android Studio, Linux OS, VS code, JetBrains Tools, Adobe Premiere Pro.
 
-[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,linux,git,github,vscode,pycharm,idea,rider,clion&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,linux,git,github,vscode,windows,googlecloud,pycharm,idea,clion&perline=5)](https://skillicons.dev)
  
 
 <table width="65%">
