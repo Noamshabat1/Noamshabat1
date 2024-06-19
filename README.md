@@ -19,6 +19,8 @@ As a Computer Science Student, I'm passionate about utilizing my knowledge of th
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,linux,git,github,vscode,windows,googlecloud,pycharm,idea,clion&perline=5)](https://skillicons.dev)
 
+</br>
+
 ## 📬 Contact me
 <div align="left">
   <a href="https://www.linkedin.com/in/noam-shabat/"><img alt="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
