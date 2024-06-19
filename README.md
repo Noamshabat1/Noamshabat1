@@ -37,6 +37,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
 [![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,linux,vscode,windows,googlecloud,pycharm,idea,clion&perline=5)](https://skillicons.dev)
 
 
+
 ## 📬 Contact Me
 
 <div align="left">
@@ -51,6 +52,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
   </a>
 </div>
 
+
 ## 🌟 Other
 
 <details>
@@ -61,6 +63,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
     <img height="175rem" alt="GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noamshabat1&theme=dark&layout=compact&langs_count=6" />
   </div>
 </details>
+
 
 ## 🐛 GitHub Game
 
