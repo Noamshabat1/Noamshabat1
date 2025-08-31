@@ -6,7 +6,7 @@ Hey there, I am **Noam Shabat** 👋🏽
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+student+at;The+Hebrew+University+of+Jerusalem;Software+Engineering;Motivated+self-starter;Troubleshooting+skills+and+teamwork" alt="Typing SVG" />
 </a>
 
-I'm a **Software Developer** and **Video Editor** with over **3 years** of experience. **I hold a B.Sc. in Computer Science** from **[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)** (Class of 2025).
+I'm a **Software Developer** and **Video Editor** with over **3 years** of experience. **I hold a B.Sc. in Computer Science** from **[The Hebrew University of Jerusalem](https://en.huji.ac.il/en)** (Class of 2025)🎓.
 
 I'm passionate about applying my knowledge of cutting-edge technologies to build impactful software solutions and contribute to innovative projects
 
