@@ -20,7 +20,7 @@ As a Computer Science student, I'm passionate about utilizing my knowledge of th
 ### Tools
 - Git, Android Studio, Linux OS, VS Code, Windows, Google Cloud, JetBrains Tools, Docker, MongoDB, Adobe Premiere Pro.
   
-[![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,linux,vscode,windows,googlecloud,pycharm,idea,clion,docker,MongoDB&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,androidstudio,linux,vscode,windows,googlecloud,pycharm,idea,clion,docker,mongodb&perline=5)](https://skillicons.dev)
 
 
 
